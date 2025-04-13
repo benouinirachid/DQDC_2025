@@ -1,0 +1,52 @@
+customer_id,first_name,last_name,email,phone,age,gender,customer_segment,registration_date,total_purchase_amount,last_purchase_date,address,city,state,zip_code
+1001,John,Smith,john.smith@example.com,555-123-4567,42,M,Gold,3/15/2022,1250.75,9/10/2023,123 Main St,Boston,MA,2108
+1002,Sarah,Johnson,sarahjohnson@mail.com,555-234-5678,35,F,Silver,7/22/2021,780.5,8/28/2023,456 Oak Ave,Chicago,IL,60605
+1003,Michael,Williams,mike.williams@example.com,555-345-6789,29,M,Bronze,1/5/2023,325.25,9/5/2023,789 Pine Rd,Seattle,WA,98101
+1004,Emily,Brown,emily.b@example.com,555-456-7890,31,F,Silver,11/10/2022,950,9/12/2023,101 Maple Dr,San Francisco,CA,94107
+1005,David,Jones,david.jones@example.com,555-567-8901,45,M,Gold,5/18/2021,2340.8,9/1/2023,202 Cedar Ln,New York,NY,10007
+1006,Lisa,Garcia,lisag@mail.com,555-678-9012,38,F,Silver,8/30/2022,875.35,8/15/2023,303 Elm St,Miami,FL,33130
+1007,Robert,Miller,robert.miller@example.com,555-789-0123,52,M,Platinum,12/3/2020,5675.9,9/8/2023,404 Birch Ave,Austin,TX,78701
+1008,Jennifer,Davis,jennifer@example.com,555-890-1234,33,F,Bronze,2/27/2023,410.15,7/22/2023,505 Walnut Rd,Denver,CO,80202
+1009,William,Rodriguez,will.rod@example.com,555-901-2345,47,M,Gold,9/14/2021,1870.45,9/3/2023,606 Cherry Dr,Portland,OR,97205
+1010,Jessica,Martinez,,555-012-3456,36,F,Silver,6/8/2022,925.6,8/20/2023,707 Spruce Ln,Philadelphia,PA,19103
+1011,Thomas,Hernandez,thomas.h@example.com,555-123-7890,41,M,Bronze,10/25/2022,510.25,9/7/2023,808 Fir Ave,Phoenix,AZ,85004
+1012,Amanda,Lopez,amanda.lopez@example.com,555-234-8901,29,F,Silver,3/19/2023,680.7,9/11/2023,909 Pine St,San Diego,CA,92101
+1013,James,Gonzalez,james.g@example.com,555-345-9012,44,M,Gold,11/5/2021,1560.3,8/25/2023,110 Oak Rd,Atlanta,GA,30303
+1014,Elizabeth,Wilson,lizwilson@mail.com,555-456-0123,32,F,Bronze,9/12/2022,425.85,7/18/2023,211 Maple Ave,Las Vegas,NV,89101
+1015,Charles,Anderson,charles.anderson@example.com,555-567-1234,39,M,Platinum,4/27/2021,4250.65,9/9/2023,312 Cedar Dr,Dallas,TX,75201
+1001,John,Smith,johnsmith@example.com,555-123-4567,42,M,Gold,3/15/2022,1250.75,9/10/2023,123 Main St,Boston,MA,2108
+1016,Patricia,Thomas,patricia.t@example.com,555-678-2345,28,F,Silver,7/31/2022,790.4,8/30/2023,413 Elm Rd,Houston,TX,77002
+1017,Christopher,Jackson,chris.j@example.com,555-789-3456,50,M,Gold,8/16/2021,1930.25,9/2/2023,514 Birch St,Detroit,MI,48226
+1018,Margaret,Lee,mlee,555-890-4567,34,F,Bronze,1/22/2023,355.95,6/15/2023,615 Walnut Ave,Minneapolis,MN,55401
+1019,Daniel,Perez,daniel.perez@example.com,555-901-5678,43,M,Silver,5/9/2022,840.1,8/5/2023,716 Cherry Ln,Nashville,TN,37203
+1020,Nancy,Thompson,nancy@example.com,555-012-6789,37,F,Gold,10/18/2021,1680.5,9/4/2023,817 Spruce St,Indianapolis,IN,46204
+1021,Mark,White,mark.white@example.com,555-123-7890,31,M,Bronze,12/7/2022,290.75,7/28/2023,918 Fir Rd,Columbus,OH,43215
+1022,Sandra,Harris,sandra.h@example.com,555-234-8901,48,F,Platinum,3/25/2021,3840.2,9/6/2023,019 Pine Ave,Salt Lake City,UT,84111
+1023,Joseph,Clark,joseph.clark@example.com,919-345-9012,36,M,Silver,8/11/2022,915.3,8/22/2023,120 Oak Dr,Charlotte,NC,28202
+1024,Donna,Lewis,donna.lewis@example.com,555-456-0123,41,F,Gold,12/30/2021,1790.45,9/1/2023,221 Maple Ln,Baltimore,MD,21202
+1025,Edward,Young,ed.young@example.com,555-567-1234,27,M,Bronze,2/14/2023,380.6,8/12/2023,322 Cedar St,Kansas City,MO,64105
+1026,Ruth,Walker,ruthw@mail.com,555-678-2345,,F,Silver,4/5/2022,720.85,8/18/2023,423 Elm Ave,Albuquerque,NM,87102
+1027,George,Hall,george.hall@example.com,555-789-3456,53,M,Gold,7/12/2021,2150.15,9/7/2023,524 Birch Dr,Pittsburgh,PA,15222
+1028,Carol,Allen,carol.allen@example.com,555-890-4567,39,F,Bronze,11/28/2022,470.3,7/30/2023,625 Walnut Rd,Milwaukee,WI,53202
+1029,Paul,Wright,paul.w@example.com,555-901-5678,45,M,Platinum,2/17/2021,7250.95,9/5/2023,726 Cherry St,Omaha,NE,68102
+1030,Laura,King,laura.king@example.com,555-012-6789,33,F,Silver,10/3/2022,850.4,8/27/2023,827 Spruce Ave,Tucson,AZ,85701
+1031,Steven,Scott,steve@example.com,555-123-78901,48,M,Gold,6/22/2021,1840.75,9/3/2023,928 Fir Ln,Raleigh,NC,27601
+1032,Michelle,Green,michelle.g@example.com,555-234-8901,30,F,Bronze,1/9/2023,395.2,8/8/2023,029 Pine Dr,Cleveland,OH,44113
+1033,Kenneth,Baker,ken.baker@example.com,555-345-9012,42,M,Silver,3/28/2022,870.5,9/10/2023,130 Oak Ave,St. Louis,MO,63101
+1034,Kimberly,Adams,kim@example.com,555-456-0123,37,F,Gold,9/5/2021,1560.85,8/15/2023,231 Maple Rd,Sacramento,CA,95814
+1035,Anthony,Nelson,anthony.nelson@example.com,555-567-1234,51,M,Bronze,7/19/2022,520.3,7/25/2023,332 Cedar Ln,Orlando,FL,32801
+1036,Helen,Hill,helen.hill@example.com,555-XXX-XXXX,34,F,Silver,12/12/2022,795.65,9/8/2023,433 Elm St,Buffalo,NY,14202
+1037,Kevin,Rivera,kevin.r@example.com,555-789-3456,46,M,Platinum,5/31/2021,6120.4,9/4/2023,534 Birch Ave,Fort Worth,TX,76102
+1038,Betty,Campbell,betty.c@example.com,555-890-4567,29,F,Bronze,3/7/2023,340.75,6/30/2023,635 Walnut Dr,Providence,RI,2903
+1039,Timothy,Mitchell,tim.mitchell@example.com,555-901-5678,43,M,Gold,11/18/2021,1920.1,9/9/2023,736 Cherry Rd,Richmond,VA,23219
+1040,Susan,Carter,susan@mail.com,555-012-6789,40,F,Silver,6/25/2022,880.55,8/19/2023,837 Spruce St,Louisville,KY,40202
+1041,Brian,Roberts,brian.r@example.com,,44,M,Bronze,9/20/2022,495.9,7/15/2023,938 Fir Ave,Memphis,TN,38103
+1042,Dorothy,Phillips,dorothy.p@example.com,555-234-8901,32,F,Gold,8/4/2021,1730.25,9/2/2023,039 Pine Ln,Birmingham,AL,35203
+1043,Ronald,Evans,ronald.evans@example.com,555-345-9012,47,M,Silver,1/27/2022,910.6,8/11/2023,140 Oak Dr,Oklahoma City,OK,73102
+1044,Sarah,Johnson,sarah.j@example.com,555-456-0123,35,F,Bronze,11/11/2022,430.85,9/7/2023,241 Maple St,New Orleans,LA,70112
+1045,Jason,Turner,jason.turner@example.com,555-567-1234,38,M,Platinum,,5120.5,9/1/2023,342 Cedar Ave,Honolulu,HI,96813
+1046,Sharon,Parker,sharon.p@example.com,555-678-2345,31,F,Silver,2/5/2023,825.15,8/23/2023,443 Elm Rd,Cincinnati,OH,45202
+1047,Matthew,Collins,matt.collins@example.com,555-789-3456,49,M,Gold,10/29/2021,2050.75,9/6/2023,544 Birch Dr,Oakland,CA,94607
+1048,Deborah,Edwards,deb@example.com,555-890-4567,36,F,Bronze,8/15/2022,375.4,7/20/2023,645 Walnut St,Tampa,FL,33602
+1049,Donald,Stewart,don.stewart@example.com,555-901-5678,41,M,Silver,5/23/2022,940.85,8/29/2023,746 Cherry Ave,Des Moines,IA,50309
+1050,Cynthia,Morris,cynthia.m@example.com,555-012-6789,28,F,Gold,12/14/2021,1840.2,9/8/2023,847 Spruce Dr,Boise,ID,83702
